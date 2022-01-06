@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthewoho
 - 👀 I’m interested in about Web
-- 🌱 I’m currently learning manny couputer language
+- 🌱 I’m currently learning many computer language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
